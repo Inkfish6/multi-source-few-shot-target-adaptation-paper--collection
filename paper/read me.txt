@@ -1,0 +1,16 @@
+Multi-source Few-shot Domain Adaptation
+Aggregating From Multiple Target-Shifted Sources   ICML2021
+Multi-Target Domain Adaptation with Collaborative Consistency Learning  CVPR2021
+HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks NIPS2022
+Balancing Discriminability and Transferability for Source-Free Domain Adaptation ICML2022
+Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation
+Tree-informed Bayesian multi-source domain adaptation: cross-population probabilistic cause-of-death assignment using verbal autopsy
+A Prototype-Oriented Framework for Unsupervised Domain Adaptation  NIPS2021
+Your Classifier can Secretly Suffice Multi-Source Domain Adaptation NIPS2020
+Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data KDD2020
+Multi-source Domain Adaptation for Semantic Segmentation NIPS2019
+Few-Shot Domain Adaptation for Grammatical Error Correction via Meta-Learning
+Few-Shot Learning as Domain Adaptation: Algorithm and Analysis  ICML2020
+Few-Shot Domain Adaptation by Causal Mechanism Transfer ICML2020
+Domain Adaptation for Time Series Forecasting via Attention Sharing ICML2022
+Multi-source Domain Adaptation in the Deep Learning Era:A Systematic Survey
